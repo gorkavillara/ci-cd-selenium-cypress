@@ -1,10 +1,9 @@
 import "./App.css";
 import Counter from "./components/Counter";
-import Title from "./components/Title";
 
 const App = () => (
   <div className="App">
-    <Title />
+    <h1>Mi aplicación</h1>
     <Counter start={0} />
   </div>
 );
