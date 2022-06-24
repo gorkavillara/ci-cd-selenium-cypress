@@ -1,5 +1,5 @@
 import React from 'react'
 
-const Title = () => <div>Mi aplicación</div>
+const Title = () => <h1>Mi aplicacion</h1>
 
 export default Title
